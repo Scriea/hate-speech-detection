@@ -6,6 +6,7 @@ This project involves training a language model for hate speech detection using 
 - **Epochs : 4**
 - **Dataset :** [Hate-Speech UC Berkeley
   ](https://huggingface.co/datasets/ucberkeley-dlab/measuring-hate-speech)
+  
   The dataset contains 7 target attributes : *race*, r*eligion, origin, gender, sexuality, age, disability*
 
 #### Packages:
